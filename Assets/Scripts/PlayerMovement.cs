@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody rb;
 
     private int coin1Count = 4;
-    private int coin2Count = 5;
+    private int coin2Count = 6;
 
     // Start is called before the first frame update
     void Start()
